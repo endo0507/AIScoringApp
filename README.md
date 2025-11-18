@@ -18,7 +18,7 @@ https://github.com/endo0507/AIScoringApp/blob/main/README.md
 現時点で判明しているこれらの不具合については、将来的に改善・解決する予定です。
 ## 調査アンケート
 以下のリンクから、調査アンケートへのご協力をお願いします。  
-回答の際は、既知の不具合以外の部分について回答してください。  
+回答の際は、なるべく既知の不具合以外の部分について回答してください。  
 https://docs.google.com/forms/d/e/1FAIpQLSc8oyr41E0AhvauGewNaRTHkXRNQ4rWSW5cnsMP2B4HNk0qMg/viewform
 
 [![アンケートのQRコード](https://github.com/endo0507/AIScoringApp/blob/main/QRcodes/enquete_QR.png "卒業研究調査アンケート")](https://docs.google.com/forms/d/e/1FAIpQLSc8oyr41E0AhvauGewNaRTHkXRNQ4rWSW5cnsMP2B4HNk0qMg/viewform)
